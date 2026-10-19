@@ -1,0 +1,11 @@
+# requirements.txt (fixed typo)
+tensorflow>=2.10.0
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+opencv-python
+tk
+kaggle>=1.5.0

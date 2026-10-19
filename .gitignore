@@ -1,0 +1,11 @@
+
+venv/
+.venv/
+__pycache__/
+*.pyc
+kaggle.json
+.env
+data/
+*.h5
+*.keras
+*.avi
